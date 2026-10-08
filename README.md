@@ -142,7 +142,7 @@ KS_PASS=<your password> TOOLS=/path/to/tools ./build.sh
 
 | What | By |
 |---|---|
-| 🖼️ **Images** – card artwork, card backs, logos, character pictures | **[GITHUB LINK](https://github.com/)** · card artwork by Sobersu and Mr Shadow · coins by Sobersu, fruitsnack, Cha0s and Mirakel |
+| 🖼️ **Images** – card artwork, card backs, logos, character pictures | **[GITHUB LINK]((https://github.com/skylandersNFC))** · card artwork by Sobersu and Mr Shadow · coins by Sobersu, fruitsnack, Cha0s and Mirakel |
 | 🔑 **Key calculation & dump conversion** | [TheSkyLib](https://github.com/DevZillion/TheSkyLib) – tnp3xxx.py by Vitorio Miliano, Python 3 version by Toni Cunyat, UID.py by Nitrus |
 | 📋 **Figure name list** | ID tables of the [Dolphin](https://github.com/dolphin-emu/dolphin) and [RPCS3](https://github.com/RPCS3/rpcs3) emulators (GPL-2.0) |
 | 🔊 **Voice lines, sound effects, ambience** | Skylanders game rips (Spyro's Adventure to Imaginators) – property of Activision |
