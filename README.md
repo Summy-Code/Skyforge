@@ -60,7 +60,7 @@ Credits
 
 Images: card artwork, card backs, logos and character pictures from
 
-GITHUB LINK. 
+https://github.com/skylandersNFC
 
 Card artwork by Sobersu and Mr Shadow.
 
