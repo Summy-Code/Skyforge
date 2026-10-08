@@ -11,23 +11,35 @@ Use it at your own risk.
 
 Features
 
-All dumps in one library, with name, game and card artwork assigned automatically
-Writes and verifies a card in one go (keys are calculated from the card's UID, no PC needed)
-Read a card to see what is on it, or back up your own figure
-Tap the big card to flip it: matching card back, holo / chrome / gloss effects that follow your finger and phone tilt
+All dumps in one library, with name, game, card artwork and Voice lines assigned automatically.
+
+Writes and verifies a card in one go (keys are calculated from the card's UID, no PC needed).
+
+Read a card to see what is on it, or back up your own figures.
+
+Tap the big card to flip it: matching card back, holo / chrome / gloss effects that follow your finger and phone tilt.
+
 Print the cards at real size (54 × 85.5 mm) with a cut frame to stick on your NFC cards:
 front, back or both, 9 cards per A4 page or 1 per page, via the Android print dialog or as PDF
+
+Save your favorite Skylanders in your Inventory, to never lose them and have multiple savestates of them.
 
 Languages: English, German, French, Spanish, Italian, Dutch, Portuguese (follows the system language)
 
 What you need
+
 Android 7 or newer with NFC
+
 A phone whose NFC chip supports MIFARE Classic (many Samsung, Pixel and Xiaomi phones do; some with
 other NFC chips don't – the app tells you)
-MIFARE Classic 1K (S50) cards or stickers with a 4-byte UID. NTAG213/215 stickers do not work.
+
+MIFARE Classic 1K (S50) cards or stickers with a 4-byte UID, they need to be 100% rewritable!
+NTAG213/215 stickers do not work.
 
 Dump files of your figures (.dump, .bin, .sky, 1024 bytes)
+
 Dumps
+
 A collection of Skylanders dumps can be found here:
 
 https://drive.google.com/drive/folders/1eO3DKfwCbKJ657OnhVC3JwtqCrelqOQZ
